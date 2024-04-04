@@ -12,7 +12,7 @@ function Navbar() {
             style={{ width: "56px", height: "56px " }}
             src={logo}
           ></img>
-          <span className="  text-[20px] px-[12px] py-[16px] content-center">Atom Space</span>
+          <span className=" hidden md:block  text-[20px] px-[12px] py-[16px] content-center">Atom Space</span>
         </a>
       </div>
     </div>

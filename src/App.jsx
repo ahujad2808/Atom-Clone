@@ -8,7 +8,7 @@ import Footer2 from "./components/Footer2";
 function App() {
   return (
     <div className=" ">
-      <div className=" h-screen bg-cover bg-moonbg bg-no-repeat bg-">
+      <div className=" bg-fixed block bg-contain  md:bg-cover h-screen  bg-moonbg bg-no-repeat">
         <Navbar></Navbar>
         <Middle></Middle>
       </div>
